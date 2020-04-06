@@ -1,0 +1,49 @@
+[
+    {
+      "id": 1,
+      "name": "Tiru",
+      "Area": "Adayar",
+      "Phone": 123456789
+    },
+    {
+      "id": 2,
+      "name": "Arjun",
+      "Area": "Porur",
+      "Phone": 123456789
+    },
+    {
+      "id": 3,
+      "name": "Mohan",
+      "Area": "Saidapet",
+      "Phone": 123456789
+    },
+    {
+      "id": 4,
+      "name": "senthil",
+      "Area": "Guindy",
+      "Phone": 123456789
+    },
+    {
+      "id": 5,
+      "name": "Mark",
+      "Area": "Vadapalani",
+      "Phone": 123456789
+    },
+    {
+      "id": 6,
+      "name": "praveen",
+      "Area": "Koyambedu",
+      "Phone": 123456789
+    },{
+      "id": 7,
+      "name": "Bala",
+      "Area": "Kilpauk",
+      "Phone": 123456789
+    },
+    {
+      "id": 8,
+      "name": "tamil",
+      "Area": "Tambaram",
+      "Phone": 123456789
+    }
+  ]
